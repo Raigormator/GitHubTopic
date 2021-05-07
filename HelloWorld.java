@@ -6,6 +6,9 @@ public class HelloWorld {
 
 		Cat cat = new Cat();
 		System.out.println(cat.meow());
+
+		Frog frog = new Frog();
+		System.out.println(frog.rebet());
 	}
 
 }	
